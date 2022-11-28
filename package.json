@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "homepage": "https://dijetspub.co.uk",
     "description": "Gitbook Fork with  tweaks",
-    "main": "bin/gitbook.js",
+    "main": "bin/dijetspub.js",
     "dependencies": {
         "q": "1.5.0",
         "lodash": "4.17.4",
